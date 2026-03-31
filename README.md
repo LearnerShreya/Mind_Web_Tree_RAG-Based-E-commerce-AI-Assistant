@@ -35,4 +35,4 @@ User Query -> Intent Detection -> Retrieval -> Filtering -> Ranking -> LLM Respo
 
 
 # OUTPUT
-![alt text](image.png)
+![alt text](Output.png)
