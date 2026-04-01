@@ -90,3 +90,4 @@ def ask_question(request: QueryRequest):
             "results": [],
             "error": str(e)
         }
+    
