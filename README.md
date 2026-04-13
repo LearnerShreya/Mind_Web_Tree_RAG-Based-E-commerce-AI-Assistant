@@ -1,4 +1,4 @@
-# RAG-Based E-commerce AI Assistant
+# RAG Based E-commerce AI Assistant
 
 This project implements a Retrieval-Augmented Generation (RAG) based chatbot for e-commerce product recommendations.
 
