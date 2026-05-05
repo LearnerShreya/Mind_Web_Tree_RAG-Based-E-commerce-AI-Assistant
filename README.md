@@ -34,5 +34,5 @@ User Query -> Intent Detection -> Retrieval -> Filtering -> Ranking -> LLM Respo
 - streamlit run streamlit_app.py
 
 
-# OUTPUT
+# OUTPUT IMAGE
 ![alt text](Output.png)
