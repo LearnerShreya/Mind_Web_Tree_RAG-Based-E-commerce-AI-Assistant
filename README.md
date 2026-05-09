@@ -23,8 +23,10 @@ User Query -> Intent Detection -> Retrieval -> Filtering -> Ranking -> LLM Respo
 ## Setup Instructions
 
 > Create a virtual environment and install dependencies:
+```
 - python -m venv venv
 - venv\Scripts\activate
+```
 
 > Install required packages:
 - pip install -r requirements.txt
